@@ -42,5 +42,4 @@ public class Convidado implements Serializable {
 	public void setQuantidadeAcompanhantes(Integer quantidadeAcompanhantes) {
 		this.quantidadeAcompanhantes = quantidadeAcompanhantes;
 	}
-
 }

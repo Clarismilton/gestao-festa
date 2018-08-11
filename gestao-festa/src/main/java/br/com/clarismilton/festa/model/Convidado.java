@@ -6,6 +6,12 @@ import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 
+/**
+ * Clarismilton Soares de Morais Desenvolvedor
+ * 
+ * 
+ */
+
 @Entity
 public class Convidado implements Serializable {
 	
